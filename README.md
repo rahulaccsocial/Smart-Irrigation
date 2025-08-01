@@ -1,4 +1,4 @@
-#🌱 Smart Irrigation System
+🌱 Smart Irrigation System
 
 A smart irrigation system that automates watering plants based on real-time soil moisture data, reducing water usage and increasing efficiency for agriculture and gardening.
 
